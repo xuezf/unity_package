@@ -2,7 +2,7 @@
 "name": "com.funplus.asset-manage",
 "displayName": "FunPlus.AssetManage",
 "description": "FunPlus.AssetManage",
-"version": "0.1.8",
+"version": "0.1.10",
 "unity": "2018.4",
 "license": "MIT",
 "dependencies": {
